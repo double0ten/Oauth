@@ -14,4 +14,4 @@ This is a text-twist game which give you 7 randow letter and you should use them
   1.you got enough points;
   2.you lose too many chances.
 
-### For more information, please infer readme.
+### For more information, please refer readme.
